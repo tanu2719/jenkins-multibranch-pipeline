@@ -12,6 +12,7 @@ pipeline{
         echo " checking webhook trigger 3 "
         echo " checking webhook trigger 4 "
         echo " checking webhook trigger 6 "
+        echo " testing merge conflicts"
       }
     }
   }
