@@ -9,6 +9,7 @@ pipeline{
       steps{
         echo "printing ${PIPE_LEVEL_VAR}"
         echo "testing merge conflict"
+        echo "testing merge conflict"
       }
     }
   }
