@@ -10,6 +10,7 @@ pipeline{
         echo "printing ${PIPE_LEVEL_VAR} using feature branch"
         echo " checking webhook trigger 2 "
         echo " checking webhook trigger 3 "
+        echo " checking webhook trigger 4 "
       }
     }
   }
