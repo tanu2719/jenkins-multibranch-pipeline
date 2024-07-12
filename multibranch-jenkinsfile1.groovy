@@ -10,6 +10,7 @@ pipeline{
         echo "printing ${PIPE_LEVEL_VAR} +++"
         echo "testing merge conflict"
         echo "testing merge conflict 2"
+        echo "new 2"
       }
     }
   }
