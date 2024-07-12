@@ -11,6 +11,7 @@ pipeline{
         echo "testing merge conflict"
         echo "testing merge conflict"
         echo "new"
+        echo "new 1000"
       }
     }
   }
