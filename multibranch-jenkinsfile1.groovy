@@ -11,6 +11,7 @@ pipeline{
         echo " checking webhook trigger 2 "
         echo " checking webhook trigger 3 "
         echo " checking webhook trigger 4 "
+        echo " checking webhook trigger 6 "
       }
     }
   }
