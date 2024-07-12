@@ -7,7 +7,7 @@ pipeline{
   stages{
     stage('S-1'){
       steps{
-        echo "printing ${PIPE_LEVEL_VAR} using feature branch"
+        echo "printing ${PIPE_LEVEL_VAR}"
         echo " checking webhook trigger 2 "
         echo " checking webhook trigger 3 "
         echo " checking webhook trigger 4 "
