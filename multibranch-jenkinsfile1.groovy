@@ -7,7 +7,7 @@ pipeline{
   stages{
     stage('S-1'){
       steps{
-        echo "printing ${PIPE_LEVEL_VAR}
+        echo "printing ${PIPE_LEVEL_VAR} using feature branch"
       }
     }
   }
