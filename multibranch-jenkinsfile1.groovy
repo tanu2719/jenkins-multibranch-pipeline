@@ -9,6 +9,7 @@ pipeline{
       steps{
         echo "printing ${PIPE_LEVEL_VAR}"
         echo "printing ${PIPE_LEVEL_VAR} from merge-conflict branch"
+        echo "printing ${PIPE_LEVEL_VAR} from main branch"
       }
     }
   }
