@@ -8,6 +8,7 @@ pipeline{
     stage('S-1'){
       steps{
         echo "printing ${PIPE_LEVEL_VAR}"
+        echo "printing ${PIPE_LEVEL_VAR} from main branch"
       }
     }
   }
