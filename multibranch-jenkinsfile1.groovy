@@ -7,7 +7,7 @@ pipeline{
   stages{
     stage('S-1'){
       steps{
-        echo "printing 1"
+        echo "printing 1 3"
       }
     }
   }
