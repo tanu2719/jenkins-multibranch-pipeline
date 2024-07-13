@@ -8,10 +8,6 @@ pipeline{
     stage('S-1'){
       steps{
         echo "printing ${PIPE_LEVEL_VAR}"
-        echo "testing merge conflict"
-        echo "testing merge conflict"
-        echo "new"
-        echo "new 1000"
       }
     }
   }
